@@ -10,6 +10,7 @@ I'm a C# developer focused on backend development and building applications with
 - .NET
 - ASP.NET Core
 - Entity Framework Core
+- REST API development
 - SQL
 - LINQ
 - Git / GitHub
@@ -27,7 +28,6 @@ C# project focused on data storage and retrieval.
 
 ### 📚 Currently Improving
 
-- REST API development
 - Clean Architecture
 - Authentication & Authorization
 - Unit Testing
