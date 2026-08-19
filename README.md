@@ -1,60 +1,97 @@
 # 👋 Hi, I'm Vardan Poghosyan
 
-### Junior .NET Backend Developer | C# | ASP.NET Core
+### Junior .NET Backend Developer
 
-I'm a Junior Backend Developer focused on building clean, maintainable, and practical applications using **C# and .NET**.
+I'm a Junior Backend Developer focused on building **RESTful APIs and backend applications with C# and .NET**.
 
-I'm currently developing my skills in backend development, RESTful APIs, databases, software architecture, and writing reliable server-side applications.
+I'm continuously improving my skills in ASP.NET Core, Entity Framework Core, SQL Server, software architecture, testing, and backend development best practices.
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🔹 Junior **C# / .NET Backend Developer**
-* 🔹 Interested in **ASP.NET Core Web API**
-* 🔹 Building RESTful APIs and backend applications
+* 💻 Junior **.NET Backend Developer**
+* 🔹 Strong focus on **C# and .NET**
+* 🔹 Building **RESTful APIs with ASP.NET Core**
 * 🔹 Working with **Entity Framework Core and SQL Server**
 * 🔹 Practicing clean and maintainable code
-* 🔹 Learning software architecture and backend best practices
-* 🔹 Continuously improving my C# and .NET skills
+* 🔹 Learning backend architecture and design patterns
+* 🔹 Interested in building real-world backend applications
+* 🔹 Continuously improving my development skills
 
 ---
 
-### Backend Concepts
+## 🛠️ Tech Stack
 
-* REST API
-* CRUD
-* Repository Pattern
-* DTOs
-* Dependency Injection
+### Backend
+- C#
+- .NET
+- ASP.NET Core
+- ASP.NET Core Web API
+
+### Database
+ - SQL Server
+- Entity Framework Core
+- LINQ
+- 
+### 🧩 Architecture & Patterns
+- REST API
+- Repository Pattern
+- DTO
+- Dependency Injection
+- AutoMapper
+- Middleware
+
+### 🧪 Testing & Documentation
+- Swagger / OpenAPI
+- Unit Testing
+
+### 🔧 Tools
+- Git
+- GitHub
+- Visual Studio
+---
+
+## 🧩 Backend Skills
+
+* C#
+* .NET
+* ASP.NET Core Web API
+* RESTful API
+* CRUD Operations
 * Entity Framework Core
+* SQL Server
+* LINQ
+* DTOs
+* Repository Pattern
+* Dependency Injection
 * AutoMapper
 * Middleware
 * Exception Handling
 * Logging
 * Database Migrations
-* LINQ
-* OOP Principles
+* Swagger / OpenAPI
+* Object-Oriented Programming
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 REST Application
+## 🥇 REST Application
 
-**ASP.NET Core Web API project focused on building a structured RESTful backend application.**
+**ASP.NET Core Web API project focused on building a structured and maintainable RESTful backend application.**
 
-**Technologies:**
+### Technologies
 
-`C#` `ASP.NET Core` `Entity Framework Core` `SQL Server` `DTO` `AutoMapper` `Repository Pattern` `Swagger`
+`C#` `ASP.NET Core` `Entity Framework Core` `SQL Server` `REST API` `DTOs` `AutoMapper` `Repository Pattern`
 
-**Implemented:**
+### Features
 
 * RESTful CRUD operations
 * Repository Pattern
-* DTOs
+* DTO-based API communication
 * Entity Framework Core
-* SQL Server database
+* SQL Server
 * AutoMapper
 * Dependency Injection
 * Centralized Exception Handling
@@ -62,20 +99,19 @@ I'm currently developing my skills in backend development, RESTful APIs, databas
 * Swagger / OpenAPI
 * Database Migrations
 
-🔗 **Repository:**
-https://github.com/vardanpoxosyan/REST_Application
+🔗 **[View REST Application](https://github.com/vardanpoxosyan/REST_Application)**
 
 ---
 
-### 🔹 BankApp
+## 🥈 BankApp
 
-**C# Console Banking Application created to practice Object-Oriented Programming and basic banking logic.**
+**C# Console Banking Application created to practice Object-Oriented Programming and basic banking operations.**
 
-**Technologies:**
+### Technologies
 
 `C#` `.NET` `OOP` `Interfaces` `Enums`
 
-**Implemented:**
+### Features
 
 * User management
 * Customer management
@@ -84,62 +120,52 @@ https://github.com/vardanpoxosyan/REST_Application
 * Interfaces
 * Classes
 * Enums
-* Basic application data management
+* Application data management
 
-🔗 **Repository:**
-https://github.com/vardanpoxosyan/BankApp
-
----
-
-### 🔹 MovieProject
-
-A C# project created to practice application development and strengthen programming fundamentals.
-
-🔗 **Repository:**
-https://github.com/vardanpoxosyan/MovieProject
+🔗 **[View BankApp](https://github.com/vardanpoxosyan/BankApp)**
 
 ---
 
-### 🔹 DataSave
+## 🥉 MovieProject
 
-A C# project focused on working with application data and practicing fundamental programming concepts.
+A C# project created to practice programming fundamentals, application logic, and object-oriented programming.
 
-🔗 **Repository:**
-https://github.com/vardanpoxosyan/DataSave
-
----
-
-## 📚 Currently Learning
-
-I'm continuously improving my backend development skills.
-
-### 🔥 Current Focus
-
-* ASP.NET Core Web API
-* REST API Architecture
-* Entity Framework Core
-* SQL Server
-* Authentication & Authorization
-* JWT
-* Clean Architecture
-* Dependency Injection
-* Unit Testing
-* Integration Testing
-* Docker
-* API Security
-* Performance Optimization
+🔗 **[View MovieProject](https://github.com/vardanpoxosyan/MovieProject)**
 
 ---
 
-## 🎯 Development Goals
+## 📦 DataSave
+
+A C# project focused on working with application data and practicing core programming concepts.
+
+🔗 **[View DataSave](https://github.com/vardanpoxosyan/DataSave)**
+
+---
+
+# 📚 Currently Learning
+
+I'm currently focusing on improving my backend development skills in the following areas:
+
+* 🔐 Authentication & Authorization
+* 🎫 JWT Authentication
+* 🏗️ Clean Architecture
+* 🧪 Unit Testing
+* 🔄 Integration Testing
+* 🐳 Docker
+* ✅ FluentValidation
+* 🔒 API Security
+* ⚡ Backend Performance
+* 🏛️ Software Architecture
+
+---
+
+# 🎯 Development Goals
 
 My goal is to become a strong **.NET Backend Developer** capable of designing and developing reliable, maintainable, and scalable backend applications.
 
-I'm focused on improving both my **technical skills** and my understanding of how real-world backend systems are designed.
+I'm focused on improving both my technical skills and my understanding of how real-world backend systems are designed and developed.
 
----
-
-## 📈 What I'm Working On
+### My learning path
 
 ```text
 C#
@@ -148,7 +174,7 @@ C#
  ↓
 ASP.NET Core
  ↓
-REST API
+REST APIs
  ↓
 Entity Framework Core
  ↓
@@ -160,28 +186,32 @@ Testing
  ↓
 Docker
  ↓
-Production-ready Backend Applications
+Production-Ready Backend Applications
 ```
 
 ---
 
-## 🤝 Open to Opportunities
+# 🤝 Open to Opportunities
 
 I'm interested in opportunities where I can:
 
 * Work with experienced developers
-* Improve my .NET backend skills
 * Contribute to real-world projects
+* Improve my .NET backend skills
 * Learn professional development practices
-* Grow as a backend developer
+* Work with modern backend technologies
+* Grow as a software developer
 
 ---
 
-## 📫 Connect With Me
+# 📫 Contact
 
-**GitHub:**
-https://github.com/vardanpoxosyan
+### GitHub
+
+🔗 **[github.com/vardanpoxosyan](https://github.com/vardanpoxosyan)**
 
 ---
 
-⭐ Feel free to explore my repositories and follow my progress as I continue developing my .NET backend skills.
+⭐ Thanks for visiting my profile!
+
+I'm continuously learning, building projects, and improving my skills as a **Junior .NET Backend Developer**.
