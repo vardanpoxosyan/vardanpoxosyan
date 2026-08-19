@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Vardan Poghosyan
 
-### Junior .NET Backend Developer
+###  .NET Backend Developer
 
-I'm a Junior Backend Developer focused on building **RESTful APIs and backend applications with C# and .NET**.
+I'm a  Backend Developer focused on building **RESTful APIs and backend applications with C# and .NET**.
 
 I'm continuously improving my skills in ASP.NET Core, Entity Framework Core, SQL Server, software architecture, testing, and backend development best practices.
 
@@ -10,7 +10,7 @@ I'm continuously improving my skills in ASP.NET Core, Entity Framework Core, SQL
 
 ## 🧑‍💻 About Me
 
-* 💻 Junior **.NET Backend Developer**
+* 💻  **.NET Backend Developer**
 * 🔹 Strong focus on **C# and .NET**
 * 🔹 Building **RESTful APIs with ASP.NET Core**
 * 🔹 Working with **Entity Framework Core and SQL Server**
