@@ -33,6 +33,4 @@ C# project focused on data storage and retrieval.
 - Unit Testing
 - Docker
 
-### 🎯 Goal
-
-My goal is to become a professional .NET Backend Developer and build reliable, scalable real-world applications.
+ 
